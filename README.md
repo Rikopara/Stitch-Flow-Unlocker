@@ -4,7 +4,7 @@ A tampermonkey user script to bypass region block of Google Stitch and Google Fl
 1. Download the tampermonkey browser extension
 2. Open the link and hit 'install' button https://github.com/Rikopara/Stitch-Flow-Unlocker/raw/refs/heads/main/stitch-unlocker.user.js
 
-## How to check if you were region restriced:
+## How to check if you were region restricted:
 - When try to send message: `Failed to create project`
 - In left panel: `Failed to load projects`
 - Open stitch -> shift+ctrl+I -> console -> you see `Error: User is not enabled for Stitch (CAN_ACCESS_STITCH=true, isStitchEnabledInCountry=false, IS_INTERNAL_TESTER=false)`
