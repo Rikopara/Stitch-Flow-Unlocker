@@ -2,7 +2,7 @@
 A tampermonkey user script to bypass region block of Google Stitch and Google Flow.
 ## How to install
 1. Download the tampermonkey browser extension
-2. Open the link and hit 'install' button https://github.com/Rikopara/Stitch-Flow-Unlocker/raw/refs/heads/main/stitch-unlocker.user.js
+2. Copy the whole script into new userscript in tampermonkey https://github.com/Rikopara/Stitch-Flow-Unlocker/raw/refs/heads/main/stitch-unlocker.user.js
 
 ## How to check if you were region restricted:
 - When try to send message: `Failed to create project`
